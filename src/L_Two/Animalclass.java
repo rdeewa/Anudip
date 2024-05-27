@@ -1,4 +1,4 @@
-package Anudip;
+package L_Two;
 
 class Animal {
     public void makeSound() {
@@ -11,7 +11,7 @@ class Dog extends Animal {
         System.out.println("Bark");
     }
 }
-public class animClas { 
+public class Animalclass { 
 	public static void main(String[] args) {
     Animal animal = new Animal(); 
     animal.makeSound(); 

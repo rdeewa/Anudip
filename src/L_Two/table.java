@@ -1,4 +1,4 @@
-package Anudip;
+package L_Two;
 
 import java.util.Scanner;
 

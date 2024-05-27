@@ -1,7 +1,8 @@
-package Anudip;
-import java.util.Scanner;
-public class vote {
+package L_One;
 
+import java.util.Scanner;
+
+public class votingAge {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter your age: ");
@@ -19,3 +20,4 @@ public class vote {
 	}
 
 }
+

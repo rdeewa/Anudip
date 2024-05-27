@@ -1,6 +1,6 @@
-package Anudip;
+package L_Two;
 
-public class prinyNum {
+public class printNum {
 
 	public static void main(String[] args) {
 		int a = 1;
@@ -12,3 +12,4 @@ public class prinyNum {
 	}
 
 }
+

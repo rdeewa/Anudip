@@ -1,9 +1,9 @@
-package Anudip;
+package L_Two;
 
 import java.util.Scanner;
 
-public class allSum {
-    public static void main(String[] args) {
+public class SumOfEnteredNum {
+	public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
         System.out.print("Enter the number to sum: ");
@@ -21,3 +21,4 @@ public class allSum {
         scanner.close();
     }
 }
+

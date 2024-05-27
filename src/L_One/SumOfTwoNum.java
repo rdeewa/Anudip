@@ -1,11 +1,10 @@
-package Anudip;
+package L_One;
+
 import java.util.Scanner;
 
-public class sum {
-
+public class SumOfTwoNum {
 	public static void main(String[] args) {
-		
-		 Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 	        System.out.print("Enter the first number: ");
 	        int a = Integer.parseInt(sc.nextLine()) ;
 	        System.out.print("Enter the second number: ");
